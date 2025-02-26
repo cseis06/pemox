@@ -38,3 +38,20 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/usuario/xora.git
+
+2. Ve al directorio del proyecto
+   ```bash
+   cd xora
+
+3. Instala las dependencias:
+   ```bash
+   npm install
+
+3. Inicia el servidor de desarrollo:
+   ```bash
+   npm run dev
+
+## 📬 Contacto
+
+Si tienes preguntas o sugerencias, no dudes en contactarme:
+**Correo**: danimaibp1@gmail.com
