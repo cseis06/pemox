@@ -20,17 +20,6 @@ Xora es una aplicación frontend moderna, desarrollada para ofrecer una experien
 
 ---
 
-## 🌈 Vista Previa
-
-¡Explora cómo luce Xora!  
-👉 [Demo en Vivo](#) *(Próximamente)*  
-
-| 🖥️ Escritorio  | 📱 Móvil |
-|----------------|----------|
-| ![Vista Escritorio](#) | ![Vista Móvil](#) |
-
----
-
 ## 🚧 Instalación y Configuración
 
 Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
@@ -54,4 +43,4 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 ## 📬 Contacto
 
 Si tienes preguntas o sugerencias, no dudes en contactarme:
-**Correo**: danimaibp1@gmail.com
+- **Correo**: danimaibp1@gmail.com
